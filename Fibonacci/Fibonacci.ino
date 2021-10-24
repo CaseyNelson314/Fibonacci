@@ -3,7 +3,7 @@
         @file   Fibonacci.ino
         @brief  フィボナッチ数列生成
         @author CaseyNelson314
-        @date   2021/10/10
+        @date   2021/10/1
 */
 
 #define SetNum 40 //生成数(MAX47)
